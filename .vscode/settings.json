@@ -1,0 +1,25 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "editor.codeActionsOnSave": {
+    "source.removeUnusedImports": false
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "spellright.language": [
+    "de"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ]
+}
